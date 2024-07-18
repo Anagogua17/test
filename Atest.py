@@ -8,3 +8,8 @@ if start_number < End_number:
         if i % 3 == 0:  
             print(i)
         i += 2 
+elif start_number > End_number:
+    while i>End_number:
+        if i % 3 == 0:  
+            print(i)
+        i -= 2  
