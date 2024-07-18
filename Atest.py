@@ -13,3 +13,6 @@ elif start_number > End_number:
         if i % 3 == 0:  
             print(i)
         i -= 2  
+
+else:
+    print("E=F")
